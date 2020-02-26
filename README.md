@@ -41,9 +41,10 @@ Exchanging ideas on topics is very engaging and rewarding for me. I believe that
 
 # I care deeply about software engineering
 Creating software that people want to use and delivering value to the customer is what drives me. I believe this is done by the disciplined practice of writing well structured, understandable, testable, and maintainable code. I believe we enable this by following the core values and principals of the Agile Manifesto. 
-* Individuals and interactions over processes and tools
-* Working software over comprehensive documentation
-* Customer collaboration over contract negotiation
-* Responding to change over following a plan
+* <b>Individuals and interactions</b> over processes and tools
+* <b>Working software</b> over comprehensive documentation
+* <b>Customer collaboration</b> over contract negotiation
+* <b>Responding to change</b> over following a plan
 * https://agilemanifesto.org/principles.html
-To that end, communication, collaboration, adaptability, and retrospection are key practices to hold in our job as software engineers
+
+To that end, <b>communication, collaboration, adaptability, and retrospection</b> are key practices to hold in our job as software engineers
