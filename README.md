@@ -1,4 +1,4 @@
-# me
+# Jason Roberts
 
 # Motivation for this document
 * Enable team members to get to know me better
@@ -6,26 +6,44 @@
 * Promote building person relationships
 
 # About me
-* 
+Personal
+* Born and raised in Massachusetts
+* Married, my wife's name is Danielle (no kids yet)
+* I have four cats
+* Went to college a little late, learned programming there, got a comp sci degree
 
+Interests
+* Video games (mainly strategy and role-playing games)
+* Board games (prefer longer/complex games)
+* Psychology (my wife has a masters degree in psychology)
+* Self-improvement (favorite books on the subject include "Man's Search for Meaning" and "7 Habits of Highly Effective People")
+* Science Fiction & Fantasy (books mainly, but also some film and television)
+* Marvel movies
 
 # My role as team lead
-* I see myself as someone anyone on the team can go to for help or guidance
-* I see myself as an advocate for the team
-* One of my main motivations is to help the team grow their skills and knowledge in software development
+* Someone anyone on the team can go to for help or guidance
+* An advocate for the team
+* Help the team grow their skills and knowledge in software development
 
-What do I value most?
-[DELETE LATER] Try to answer these questions: What does helping me look like?  What is my process for handling conflicts? (and how you can do it yourself) How does helping me look like?  What weaknesses of mine should the team know about, and how can they help me improve?
+# My Core values
+* Honesty
+* Curiosity
+* Tenacity
 
-My Expectations
+# Quirks
+* Like many engineers, my first instict on hearing a problem is to imagine a solution
+* I like to play devil's advocate, this derives from wanting to understand the whole picture
+* I'm an introvert, thus I'm not always forthcoming with my opinion, but I will always give it when asked. 
+* I sometimes pause to think long enough to make it awkward
 
-[DELETE LATER] Try to answer these questions: How should people set time with you? When it comes to mistakes, what's the best way for employees to come forward? How do you define "Done"? When should people be available and how? (e.g. work hours, availability via chat/phone etc.)
-1:1s
+# I love discussion
+Exchanging ideas on topics is very engaging and rewarding for me. I believe that there's value in recognizing everyone's thoughts and opinions. The process of exploring ideas makes new connections in the brain for all the participants involved, as long as they're engaged. To that end, <b>psychological safety</b> is very important to me. I want people to feel comfortable being open and expressing themselves at any time. So if I do anything that makes you feel uncomfortable, please raise it with me in private, no matter how minor.
 
-[DELETE LATER]  Try to answer these questions: When do you usually have 1:1s with your team? Who should lead the 1:1 (you or them)? What should be the main focus during that time?
-Personality quirks
-
-[DELETE LATER]  Try to answer this question: What are the individual quirks that anyone working with me should know about? Usually, these quirks are not "good" or "bad", they just part of who you are. It's the small things that people do that gets you extremely happy/excited or extremely upset/nervous within 5 seconds without any good reason.
-Where to focus on your first 90 days?
-
-[DELETE LATER]  Try to answer these questions: What does effective onboarding look like on your team? How can they tell if they're doing a good job in their first 30 days? 
+# I care deeply about software engineering
+Creating software that people want to use and delivering value to the customer is what drives me. I believe this is done by the disciplined practice of writing well structured, understandable, testable, and maintainable code. I believe we enable this by following the core values and principals of the Agile Manifesto. 
+* Individuals and interactions over processes and tools
+* Working software over comprehensive documentation
+* Customer collaboration over contract negotiation
+* Responding to change over following a plan
+* https://agilemanifesto.org/principles.html
+To that end, communication, collaboration, adaptability, and retrospection are key practices to hold in our job as software engineers
