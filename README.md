@@ -48,3 +48,6 @@ Creating software that people want to use and delivering value to the customer i
 * https://agilemanifesto.org/principles.html
 
 To that end, <b>communication, collaboration, adaptability, and retrospection</b> are key practices to hold in our job as software engineers
+
+Full resume:
+https://drive.google.com/file/d/1hiandt1zQlk4lRbkAJlsnKFm4bvz6NK6/view?usp=sharing
