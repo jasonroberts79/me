@@ -9,7 +9,7 @@
 Personal
 * Born and raised in Massachusetts
 * Married, my wife's name is Danielle (no kids yet)
-* I have four cats
+* I have three cats
 * Went to college a little late, learned programming there, got a comp sci degree
 
 Interests
@@ -17,7 +17,7 @@ Interests
 * Board games (prefer longer/complex games)
 * Psychology (my wife has a masters degree in psychology)
 * Self-improvement (favorite books on the subject include "Man's Search for Meaning" and "7 Habits of Highly Effective People")
-* Science Fiction & Fantasy (books mainly, but also some film and television)
+* Science Fiction & Fantasy (books, film, and television)
 * Marvel movies
 
 # My role as team lead
@@ -50,4 +50,4 @@ Creating software that people want to use and delivering value to the customer i
 To that end, <b>communication, collaboration, adaptability, and retrospection</b> are key practices to hold in our job as software engineers
 
 Full resume:
-https://drive.google.com/file/d/1hiandt1zQlk4lRbkAJlsnKFm4bvz6NK6/view?usp=sharing
+https://drive.google.com/open?id=1R_otmRX7m6bZyt6K9WB2AK8PQ-9F4kf0
