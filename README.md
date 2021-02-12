@@ -50,4 +50,4 @@ Creating software that people want to use and delivering value to the customer i
 To that end, <b>communication, collaboration, adaptability, and retrospection</b> are key practices to hold in our job as software engineers
 
 Full resume:
-https://drive.google.com/open?id=1R_otmRX7m6bZyt6K9WB2AK8PQ-9F4kf0
+https://drive.google.com/open?id=10sSd7g0Mke7jBC6N_mlljKXfHgOaGiTQ
